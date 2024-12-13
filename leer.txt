@@ -1,0 +1,7 @@
+crear pagina, get para ver todos los usuarios, buscar un usuario mediante input nombre, y añadir nuevo usuario(post)
+
+usar $.ajax
+
+url: endpoint
+contentType:"application/json"
+data: JSON.stringify(data)
